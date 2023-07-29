@@ -124,7 +124,6 @@ This function may not do what you are expecting. While it resets all user data, 
 - [WebInterface-Wifi](https://github.com/rM-self-serve/webinterface-wifi) - View the web interface if running, over wifi.
 
 ## GUI Clients
-
 - [asTounding](https://github.com/jlarriba/astounding) -  A multiplatform GUI application for the reMarkable cloud, including Linux.
 - [RemaDroid](https://play.google.com/store/apps/details?id=org.remadroid) - An alternative Android app to upload documents, webpages or images to the reMarkable tablet.
 - [RemaPy](https://github.com/peerdavid/remapy) - GUI to browse, download/upload files and backup the tablet (also on Linux) using the cloud.
@@ -132,6 +131,7 @@ This function may not do what you are expecting. While it resets all user data, 
 - [reMarkable Connection Utility (RCU)](http://www.davisr.me/projects/rcu/) - A cross-platform client for offline management of backups, screenshots, notebooks, templates, wallpaper, and third-party software.
 - [reMarkable-hyutilities](https://github.com/moovida/remarkable-hyutilities) - A GUI written in java to backup your device, upload templates and modify splash screens.
 - [ReMy](https://github.com/bordaigorl/remy) - A GUI to browse, preview documents, export documents with custom settings, all via SSH (no cloud needed); works from local raw backups too.
+- [rM2 Template Helper](https://www.freeremarkabletools.com/) - Free tool to manage templates includes backup (Paid Pro available)
 - [rMExplorer](https://github.com/bruot/pyrmexplorer/wiki) - GUI to browse, download/upload files and backup the tablet without using the cloud.
 - [rmUploader](https://github.com/lobre/rmuploader) - Simple web app to upload epub or pdf files to the reMarkable tablet via drag and drop.
 - [Slithin](https://github.com/furesoft/Slithin) - Free Management Application for Windows/Linux/MacOS
